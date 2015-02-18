@@ -1,0 +1,3 @@
+%{"eredis": {:git, "git://github.com/wooga/eredis.git", "471dd471060daa1d98391cb69ae006f8ba79a042", [ref: "471dd"]},
+  "exredis": {:git, "git://github.com/artemeff/exredis.git", "321487f1e747225ff86c5d8af7bb7f3b7a7901d6", [tag: "0.1.0"]},
+  "hierdis": {:git, "git://github.com/ismaelga/hierdis.git", "1628d4e3309be0e253cdbaca4f103d952a4bba8a", [branch: "async-tests"]}}
